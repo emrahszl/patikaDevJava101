@@ -1,0 +1,4 @@
+# Multiples of 4 and 5
+
+## Ödev
+- Java döngüler ile girilen sayıya kadar olan 4 ve 5'in kuvvetlerini ekrana yazdıran programı yazıyoruz.
