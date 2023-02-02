@@ -25,7 +25,7 @@ public class Main {
             for (int n = 1; n <= (2*k)-1; n++){
                 System.out.print("*");
             }
-            System.out.println();
+            System.out.println(" ");
         }
     }
 }
