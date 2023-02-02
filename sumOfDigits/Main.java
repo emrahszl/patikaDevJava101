@@ -14,6 +14,6 @@ public class Main {
             digit = i % 10;
             sumOfDigits += digit;
         }
-        System.out.println(sumOfDigits);
+        System.out.println("Basamak sayılarının toplamı = "+sumOfDigits);
     }
 }
