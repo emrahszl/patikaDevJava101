@@ -35,11 +35,15 @@ public class Main {
                 if (number > maxNumber) {
 
                     maxNumber = number;
+                    
                 } else if (number < minNumber) {
+                    
                     minNumber = number;
+                    
                 }
             }
         }
+        
         System.out.println("En büyük sayı : " + maxNumber);
         System.out.println("En küçük sayı : " + minNumber);
     }
