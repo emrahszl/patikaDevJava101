@@ -14,3 +14,5 @@ Java dilinde Mayın Tarlası oyunu yapmanızı bekliyoruz.
 - Kullanıcının girdiği noktada mayın var ise oyunu kaybetmeli.
 - Mayın yok ise, ilgili noktaya değen tüm konumlarına bakılmalı (sağı, solu, yukarısı, aşağısı, sol üst çapraz, sağ üst çapraz, sağ alt çapraz, sol alt çapraz) ve etrafındaki mayınların sayısının toplamı ilgili noktaya yazılmalı. Noktaya değen herhangi bir mayın yok ise "0" değeri atanmalı.
 - Kullanıcı hiç bir mayına basmadan tüm noktaları seçebilirse oyunu kazanmalı.
+
+### www.patika.dev
